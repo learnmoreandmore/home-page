@@ -17,6 +17,7 @@
 }
 
 .layout__main {
+  width: 100%;
   flex: 1;
 }
 </style>
